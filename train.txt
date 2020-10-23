@@ -1,0 +1,802 @@
+yellow	yelo
+beyond	beyond
+law	lawye
+pretty	prity
+sign	syn
+thing	thing
+think	think
+path	path
+this	this
+then	then
+with	with
+raps	raps
+rats	rats
+racks	raks
+tabs	tabs
+heads	heds
+hogs	hogs
+yellow	yelo
+beyond	beyond
+law	lawye
+pretty	prity
+record	record
+tax	tax
+sex	sex
+fix	fix
+jinx	jinx
+taxes	taxes
+taxing	taxing
+fixer	fixer
+exist	exist
+exact	exakt
+same	saim
+weigh	way
+weighing	waying
+hide	hied
+high	hie
+deny	denie
+signify	sigifi
+dignify	dignifi
+my	mi
+by	bi
+hi	hi
+own	oen
+bone	boen
+loan	loen
+kn	no
+window	windo
+show	sho
+no	no
+so	so
+go	go
+lo	lo
+cat	cat
+cream	creem
+cake	caek
+keep	keep
+killer	kiler
+lucky	luky
+duck	duk
+ducks	duks
+physic	fiziks
+queen	qeen
+quick	qik
+quiet	qiet
+ax	ax
+axes	axes
+exact	exakt
+axis	axsis
+exserpt	exserpt
+rooms	rooms
+kids	kids
+sister 's	sister 's
+sings	sings
+dwells	dwels
+is	is
+his	his
+as	as
+has	has
+zoom	zoom
+doze	doez
+does	duz
+sick	sik
+mercy	mursy
+pass	pas
+ice	iess
+since	sinss
+princes	prinse
+about	bout
+allow	low
+aroun	round
+chicken	chicken
+squirrel	squrel
+raisin	raezin
+civil	sivil
+nation	naeshon
+wisdom	wizdom
+upon	upon
+callous	calus
+regard	regard
+piano	peano
+radio	raedio
+various	vaerius
+pretty	prity
+prettier	prityer
+p	pri
+merry	merry
+marry	marry
+sorry	sorry
+our	our
+crowd	croud
+brown	broun
+cow	cow
+cower	cower
+coward	coward
+oil	oil
+boil	boil
+foils	foils
+toy	toy
+toying	toying
+boyish	boyish
+brawn	braun
+tawny	tauny
+brawl	braul
+law	law
+laws	laws
+lawful	lawful
+the	th
+a	a
+to	to
+for	for
+on	on
+they	thae
+his	his
+n't	n't
+as	as
+can	can
+would	wuud
+make	maek
+there	thaer
+when	when
+me	me
+into	into
+your	yuur
+than	than
+then	then
+more	mor
+look	luuk
+because	becauz
+no	no
+thing	thing
+only	oenly
+very	verry
+any	eny
+us	us
+work	wurk
+should	shuud
+school	scool
+too	too
+state	staet
+high	hie
+another	anuther
+out	out
+while	whiel
+student	stoodent
+same	saem
+seem	seem
+where	whaer
+start	start
+show	sho
+place	plaess
+few	fue
+company	cumpany
+right	riet
+question	qeschon
+government	guvernment
+off	off
+night	niet
+believe	beleev
+happen	hapen
+large	larj
+home	hoem
+write	riet
+money	muny
+month	munth
+study	study
+word	wurd
+side	sied
+far	far
+little	litl
+since	sinss
+around	around
+sit	sit
+hour	our
+line	lien
+ever	ever
+however	however
+meet	meet
+include	inclood
+community	comuenity
+once	wunss
+learn	lurn
+minute	minit
+kid	kid
+ago	ago
+understand	understand
+together	together
+create	creaet
+others	uthers
+add	ad
+health	helth
+such	such
+within	within
+change	chaenj
+low	loe
+guy	gie
+moment	moement
+force	forss
+education	ejucaeshon
+foot	fuut
+toward	tord
+policy	polisy
+music	muezik
+actually	akchualy
+wait	waet
+send	send
+build	bild
+nation	naeshon
+interest	interest
+experience	expeeri'enss
+kill	kil
+use	uess
+control	controel
+else	elss
+major	maejor
+development	development
+better	beter
+decide	desied
+heart	hart
+light	liet
+police	poleess
+return	return
+report	report
+explain	explaen
+develop	develop
+town	toun
+true	troo
+difference	diferenss
+international	internashonal
+model	model
+position	pozishon
+record	record
+special	speshal
+support	suport
+matter	mater
+site	siet
+base	baess
+need	need
+American	Amerrican
+situation	sichuaeshon
+figure	figuer
+itself	itself
+cover	cuver
+practice	practis
+describe	descrieb
+patient	paeshent
+movie	moovy
+personal	pursonal
+third	thurd
+baby	baeby
+draw	draw
+source	sorss
+choose	chooz
+point	point
+difficult	dificult
+billion	bilyon
+period	peeriod
+realize	reealiez
+likely	liekly
+letter	leter
+single	singgl
+south	south
+campaign	campaen
+call	caul
+church	church
+current	curent
+involve	involv
+security	secuerity
+west	west
+per	per
+rest	rest
+fight	fiet
+past	past
+order	order
+focus	foecus
+blood	blud
+nature	naecher
+store	stor
+fine	fien
+page	paej
+common	comon
+race	raess
+similar	similar
+usually	uezhualy
+animal	animal
+shoot	shoot
+artist	artist
+career	career
+thus	thus
+exactly	exaktly
+size	siez
+occur	ocur
+thought	thaut
+quality	qolity
+hard	hard
+meeting	meeting
+whatever	whotever
+particularly	particuelarly
+recognize	recogniez
+loss	los
+herself	herself
+TV	TV
+deal	deel
+lay	lae
+bill	bil
+arrive	ariev
+sex	sex
+section	sekshon
+skill	skil
+operation	operaeshon
+ok	OK
+design	dezien
+ten	ten
+blue	bloo
+clearly	cleerly
+truth	trooth
+check	chek
+public	publik
+guess	ges
+prove	proov
+claim	claem
+help	help
+network	netwurk
+form	form
+green	green
+seat	seet
+trial	trieal
+firm	furm
+management	manejment
+tonight	toniet
+close	cloez
+theory	theeory
+maintain	maentaen
+onto	onto
+employee	employee
+head	hed
+apply	aplie
+shake	shaek
+chair	chaer
+structure	strukcher
+weight	waet
+top	top
+evening	eevning
+unit	uenit
+worry	wury
+individual	indivijual
+necessary	nesesaery
+shoulder	shoelder
+dream	dreem
+pen	pen
+copy	copy
+happen	hapen
+back	bak
+bubble	bubl
+job	job
+tea	tee
+tight	tiet
+button	buton
+city	sity
+better	beter
+day	dae
+ladder	lader
+odd	od
+key	kee
+cock	cok
+school	scool
+get	get
+giggle	gigl
+ghost	goest
+church	church
+match	mach
+nature	naecher
+judge	juj
+age	aej
+soldier	soeljer
+fat	fat
+coffee	cofy
+rough	ruf
+move	moov
+thing	thing
+author	author
+path	path
+this	this
+other	uther
+smooth	smooth
+soon	soon
+cease	seess
+sister	sister
+zero	zeero
+zone	zoen
+roses	roezes
+ship	ship
+sure	shuur
+station	staeshon
+pleasure	plezher
+vision	vizhon
+hot	hot
+whole	hoel
+behind	behiend
+more	mor
+hammer	hamer
+some	sum
+nice	niess
+know	noe
+funny	funy
+sun	sun
+ring	ring
+long	long
+thanks	thanks
+sung	sung
+light	liet
+valley	valy
+feel	feel
+yet	yet
+use	uez
+use	uess
+beauty	buety
+wet	wet
+one	wun
+when	when
+queen	qeen
+dress	dres
+bed	bed
+lot	lot
+odd	od
+wash	wosh
+strut	strut
+bud	bud
+love	luv
+foot	fuut
+good	guud
+put	puut
+fleece	fleess
+day	dae
+streak	streek
+price	priess
+high	hie
+try	tri
+choice	chois
+boy	boy
+goose	gooss
+two	too
+blue	bloo
+goat	goet
+show	sho
+no	no
+cold	coeld
+mouth	mouth
+now	now
+near	neer
+here	heer
+serious	seerius
+square	sqaer
+fair	faer
+various	vaerius
+start	start
+father	faather
+thought	thaut
+law	law
+north	north
+war	wor
+cure	cuer
+poor	puur
+jury	juury
+nurse	nurss
+stir	stur
+courage	curej
+happy	hapy
+radiation	raediaeshon
+glorious	glorius
+about	about
+comma	coma
+common	comon
+Bakunin	Bakunin
+Colin	Colin
+Ferrer	Ferer
+Francisco	Francisco
+Godwin	Godwin
+Goodman	Goodman
+Hearbert	Hearbert
+In	in
+Inceptive	inseptiv
+Joseph	Joseph
+Leo	Leo
+Max	Max
+Pierre	Pierre
+Proudhon	Proudhon
+Stirner	Stirner
+Ward	Ward
+Willian	Willian
+ability	ability
+according	akording
+achieved	acheevd
+action	akshon
+advocating	advokaeting
+aim	aem
+also	also
+an	an
+anarchy	anarky
+anti	anti
+appears	apeers
+are	ar
+arrested	arested
+artists	artists
+as	as
+attracted	atraekted
+bank	bank
+basic	baesik
+be	be
+became	bekaem
+beginning	begining
+black	blak
+bodies	bodys
+body	body
+branch	branch
+broadly	braudly
+by	bi
+capitalism	capitalizm
+catalan	catalan
+catholic	cathlik
+cause	cauz
+century	senchury
+class	clas
+combining	combiening
+compulsory	compulsory
+concepts	consepts
+controlled	controeld
+councils	counsils
+countries	cuntrys
+coverage	cuverej
+currency	curensy
+decades	dikaeds
+descriptive	discriptiv
+developed	divelopt
+dictatorship	diktaetorship
+distanced	distenst
+diverge	dieverj
+dropping	droping
+during	duering
+economic	economik
+educate	ejucaet
+effective	efektiv
+english	english
+established	establisht
+establishment	establishment
+etymology	etimolojy
+external	external
+faced	faest
+factions	fakshons
+federation	federaeshon
+feminist	feminist
+followed	foloed
+formed	formd
+from	from
+fusion	fuezhon
+generation	jeneraeshon
+got	got
+greek	greek
+hand	hand
+have	hav
+himself	himself
+identity	iedentity
+ideologically	iedeolojikaly
+inconsistent	inconsistent
+individual	indivijual
+institutions	institushons
+involuntary	involantaery
+kept	kept
+kinds	kiends
+latest	laetist
+leading	leeding
+left	left
+legs	legs
+lived	livd
+management	manejment
+marginalized	marjinaliezd
+marxist	marxist
+means	meens
+merely	meerly
+microscope	miecroescoep
+modern	modern
+mostly	moestly
+mutual	muechual
+news	nuez
+non	non
+non	non
+not	not
+of	of
+or	or
+organised	organiezd
+origin	orijin
+overlap	oeverlap
+part	part
+philosophies	filosaufys
+philosophy	filosaufy
+plenty	plenty
+prefigure	preefigur
+prehistory	preehistory
+production	produkshon
+publicity	publisity
+radical	radikal
+radicalism	radikalizm
+reciprocity	resiprosity
+reclamation	reclameashon
+referred	referd
+reform	reform
+regulated	reguelaeted
+reinforced	reinforsst
+rejected	rejekted
+relying	relieying
+replacing	replaessing
+respect	respekt
+retrospectively	retrospektivly
+schooling	scooling
+second	second
+see	see
+self	self
+separated	sepreited
+setting	seting
+several	several
+situated	sichuaeted
+societies	sosietys
+solidarity	solidarity
+specific	spesifik
+struggles	strugls
+suggesting	sujesting
+tenets	tenets
+than	than
+their	thear
+theoretical	theeoretikal
+theory	theeory
+they	thae
+thinker	thinker
+thinkers	thinkers
+third	thurd
+through	throo
+time	tiem
+types	tieps
+various	vaerius
+views	vuez
+violent	vielent
+voluntary	volantaery
+was	was
+well	wel
+while	whiel
+will	wil
+within	within
+worked	wurkd
+working	wurking
+world	wurld
+would	wuud
+writers	rieters
+young	yung
+Fourscore and seven years ago our fathers brought forth , on this continent , a new nation , conceived in liberty and dedicated to the proposition that all men are created equal .	Foerscor and seven yeers ago our faathers braut forth , on this continent , a nue naeshon , conseevd in liberty and dedicaeted to th propozishon that all men ar creaeted eeqal .
+Now we are engaged in a great civil war , testing whether that nation , or any nation so conceived , and so dedicated , can long endure .	Now we ar engaejd in a graet sivil wor , testing whether that naeshon , or eny naeshon so conseevd , and so dedicaeted , can long enduur .
+We are met on a great battle - field in that war .	We ar met on a graet batl - feeld in that wor .
+We have come to dedicate a portion of that field , as a final resting - place for those who here gave their lives , that that nation might live .	We hav cum to dedicaet a porshon of that feeld , as a fienal resting - plaess for thoes hoo heer gaev thaer lievs , that that naeshon miet liv .
+It is altogether fitting and proper that we should do this , but in a larger sense we can not dedicate , we can not consecrate , we can not hallow this ground .	It is aultogether fiting and proper that we shuud do this , but in a larjer senss we can not dedicaet , we can not consecraet , we can not halo this ground .
+The brave men , living and dead , who struggled here , have consecrated it far above our poor power to add or detract .	Th braev men , living and ded , hoo strugld heer , hav consecraeted it far abuv our puur power to ad or detrakt .
+The world will little note , nor long remember , what we say here , but it can never forget what they did here .	Th wurld wil litl noet , nor long remember , whot we say heer , but it can never forget whot thae did heer .
+It is for us the living , rather , to be dedicated to the great task remaining before us that from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion — that we here highly resolve that these dead shall not have died in vain , that this nation , under God , shall have a new birth of freedom , and that government of the people , by the people , for the people , shall not perish from the earth .	It is for us th living , rather , to be dedicaeted to th graet task remaening befor us that from thees onord ded we taek increest devoeshon to that cauz for which thay gaev th last fuul mezher of devoeshon - that we heer hiely rezolv that thees ded shal not hav died in vaen , that this naeshon , under God , shal hav a nue burth of freedom , and that guvernment of th peepl , bi th peepl , for th peepl , shal not perrish frum th urth .
+Once upon a time there were four little Rabbits , and their names were Flopsy , Mopsy , Cotton - tail , and Peter .	Wunss upon a tiem thaer wer foer litl Rabits , and thaer naems wer Flopsy , Mopsy , Coton - tael , and Peeter .
+They lived with their Mother in a sand - bank , underneath the root of a very big fir - tree .	Thae livd with thaer Muther in a sand - bank , underneeth th root of a verry big fur - tree .
+' Now , my dears , ' said old Mrs. Rabbit one morning , ' you may go into the ﬁelds or down the lane , but do n't go into Mr. McGregor 's garden : your Father had an accident there ; he was put in a pie by Mrs. McGregor . '	' Now , mi deers , ' sed oeld Mss. Rabit wun morning , ' you mae go into th feelds or doun th laen , but doe n't go into Mr. MkGregor 's garden : Yuur Faather had an aksident thaer ; he was puut in a pie bi Mss. MkGregor . '
+' Now run along , and do n't get into mischief .	' Now run along , and doe n't get into mischif .
+I am going out . '	I am going out . '
+Then old Mrs. Rabbit took a basket and her umbrella , and went through the wood to the baker 's .	Then oeld Mss. Rabit tuuk a basket and her umbrela , and went thru th wuud to th baeker 's .
+She bought a loaf of brown bread and five currant buns .	She baut a loef of broun bred and fiev curant buns .
+Flopsy , Mopsy , and Cotton - tail , who were good little bunnies , went down the lane to gather blackberries .	Flopsy , Mopsy , and Coton - tael , hoo wer guud litl bunys , went doun th laen to gather blakberrys .
+But Peter , who was very naughty , ran straight away to Mr. McGregor 's garden , and squeezed under the gate !	But Peeter , hoo was verry nauty , ran straet awae to Mr. MkGregor 's garden , and sqeezd under th gaet !
+First he ate some lettuces and some French beans ; and then he ate some radishes ; And then , feeling rather sick , he went to look for some parsley .	Furst he aet sum letises and sum French beens ; and then he aet sum radishes ; and then , feeling rather sik , he went to luuk for sum parsly .
+But round the end of a cucumber frame , whom should he meet but Mr. McGregor !	But round th end of a cuecumber fraem , hoom shuud he meet but Mr. MkGregor !
+Mr. McGregor was on his hands and knees planting out young cabbages , but he jumped up and ran after Peter , waving a rake and calling out , ' Stop thief ! '	Mr. MkGregor was on his hands and nees planting out yung cabejes , but he jumpt up and ran after Peeter , waeving a raek and cauling out , ' Stop theef ! '
+Peter was most dreadfully frightened ; he rushed all over the garden , for he had forgotten the way back to the gate .	Peeter was moest dredfuly frietend ; he rusht all oever th garden , for he had forgoten th wae bak to th gaet .
+He lost one of his shoes among the cabbages , and the other shoe amongst the potatoes .	He lost wun of his shoos amung th cabejes , and th uther shoo amungst th potaetoes .
+After losing them , he ran on four legs and went faster , so that I think he might have got away altogether if he had not unfortunately run into a gooseberry net , and got caught by the large buttons on his jacket .	After loozing them , he ran on foer legs and went faster , so that I think he miet hav got awae aultogether if he had not unforchunatly run into a goosberry net , and got caut bi th larj butons on his jaket .
+It was a blue jacket with brass buttons , quite new .	It was a bloo jaket with bras butons , qiet nue .
+Let us go then , you and I ,	Let us go then , U and I ,
+When the evening is spread out against the sky	When th eevning is spred out agenst th ski
+Like a patient etherized upon a table ;	Liek a paeshent eetheriezd upon a taebl ;
+Let us go , through certain half - deserted   streets ,	Let us go , thru surten haf - dezurted streets ,
+The muttering retreats	Th mutering retreets
+Of restless nights in one - night cheap hotels	Of restles niets in wun - niet cheep hoetels
+And sawdust restaurants with oyster - shells :	And sawdust resteraants with oister - shels :
+Streets that follow like a tedious argument	Streets that folo liek a teedius arguement
+Of insidious intent	Of insidius intent
+To lead you to an overwhelming question ...	To leed U to an oeverwhelming qeschon ...
+Oh , do not ask , " What is it ? "	O , do not ask , " Whot is it ? "
+Let us go and make our visit .	Let us go and maek our vizit .
+In the room the women come and go	In th room th wimen cum and go
+Talking of Michelangelo .	Tauking of Mikelanjelo .
+The yellow fog that rubs its back upon the window - panes ,	Th yelo fog that rubs its bak upon th windo - paens ,
+The yellow smoke that rubs its muzzle on the window - panes ,	Th yelo smoek that rubs its muzl on th windo - paens ,
+Licked its tongue into the corners of the evening ,	Likt its tung into th corners of th eevning ,
+Lingered upon the pools that stand in drains ,	Linggerd upon th pools that stand in draens ,
+Let fall upon its back the soot that falls from chimneys ,	Let faul upon its bak th suut that fauls from chimnys ,
+Slipped by the terrace , made a sudden leap ,	Slipt bi th terris , maed a suden leep ,
+And seeing that it was a soft October night ,	And seeing that it wuz a soft Oktoeber niet ,
+Curled once about the house , and fell asleep .	Curld wunss about th hous , and fel asleep .
+And indeed there will be time	And indeed thaer wil be tiem
+For the yellow smoke that slides along the street ,	For th yelo smoek that slieds along th street ,
+Rubbing its back upon the window - panes ;	Rubing its bak upon th windo - paens ;
+There will be time , there will be time	Thaer wil be tiem , thaer wil be tiem
+To prepare a face to meet the faces that you meet ;	To prepaer a faess to meet th faeses that U meet ;
+There will be time to murder and create ,	Thaer wil be tiem to murder and creaet ,
+And time for all the works and days of hands	And tiem for all th wurks and daes of hands
+That lift and drop a question on your plate ;	That lift and drop a qeschon on yuur plaet ;
+Time for you and time for me ,	Tiem for U and tiem for me ,
+And time yet for a hundred indecisions ,	And tiem yet for a hundred indesizhons ,
+And for a hundred visions and revisions ,	And for a hundred vizhons and revizhons ,
+Before the taking of a toast and tea .	Befor th taeking of a toest and tee .
+NOODLE SOUP	NOODL SOOP
+2 quarts Chicken Consommé .	2 qorts Chiken Consomae .
+1 teaspoon finely chopped parsley .	1 teespoon fienly chopt parsly .
+1 recipe noodles cut very fine ( see below ) .	1 resipy noodls cut verry fien ( see beloe ) .
+PROCESS :	PROSESS :
+Cook fowl same as for Boiled Fowl ( do not tie in cheese cloth ) .	Cuuk foul saem as for Boild Foul ( do not tie in cheez cloth ) .
+Drain fowl from stock , and strain .	Draen foul from stok , and straen .
+When cold , remove fat , and clear .	When coeld , remoov fat , and cleer .
+Reheat , add noodles , and simmer twenty minutes .	Reheet , ad noodls , and simer twenty minits .
+Sprinkle with parsley and serve very hot .	Sprinkl with parsly and surv verry hot .
+NOODLES	NOODLS
+1 egg .	1 eg .
+1/2 teaspoon salt .	1/2 teespoon sault .
+Flour .	Flour .
+Few grains nutmeg .	Fue graens nutmeg .
+PROCESS :	PROSESS :
+Beat egg slightly , add seasonings , add flour enough to make a stiff dough .	Beet eg slietly , ad seezonings , ad flour enuf to maek a stif doe .
+Knead on a floured board until smooth and elastic .	Need on a flourd bord until smooth and elastik .
+Roll out on a sheet as thin as paper , cover and let stand for half an hour .	Roel out on a sheet as thin as paeper , cuver and let stand for haf an our .
+Roll loosely and cut the desired width , either in threads or ribbons , unroll and scatter over board ; let lay half an hour .	Roel loosly and cut th dezierd width , eether in threds or ribons , unroel and scater oever bord ; let lae haf an our .
+Cook in boiling , salted water fifteen minutes , drain and add to soup .	Cuuk in boiling , saulted wauter fifteen minits , draen and ad to soop .
+Noodles may be cooked in Consommé twenty minutes but the soup will not be as clear as when noodles are cooked previously .	Noodls mae be cuukt in Consomae twenty minits but th soop wil not be as cleer as when noodls ar cuukt preeviusly .
+BOILED BEEF	BOILD BEEF
+Have five pounds of beef , cut from the face of the rump .	Hav fiev pounds of beef , cut from th faess of th rump .
+Wipe meat , sprinkle with salt , pepper , and dredge with flour .	Wiep meet , sprinkl with sault , peper , and drej with flour .
+Brown richly in an iron skillet in some of its own fat tried out , turning often .	Broun richly in an ieern skilet in sum of its oen fat tried out , turning ofen .
+Remove to kettle and cover with boiling water .	Remoov to ketl and cuver with boiling wauter .
+Add one tablespoon salt , one - half teaspoon peppercorns , a bit of bay leaf , one carrot sliced , one turnip sliced , and one - half onion sliced .	Ad wun taeblspoon sault , wun - haf teespoon pepercorns , a bit of bae leef , wun carrot sliest , wun turnip sliest , and wun - haf unyon sliest .
+Add two sprays each of parsley and thyme and one of marjoram .	Ad too spraes eech of parsly and tiem and wun of marjoram .
+Cover and heat to boiling point .	Cuver and heet to boiling point .
+Skim when necessary .	Skim when nesesaery .
+Reduce heat and simmer until meat is tender ( four or five hours ) .	Reduess heet and simer until meet is tender ( foer or fiev ours ) .
+Remove to serving platter .	Remoov to surving plater .
+Strain stock and use for soup or sauces .	Straen stok and uez for soop or sauses .
+Serve meat with hot Horseradish Sauce .	Surv meet with hot Horsradish Saus .
+( For recipe see page 51 . )	( For resipy see paej 51 . )
+All anarchist schools were based mostly on a moral value , namely respecting children's right to develop freely without manipulations .	All anarkist skools wer baest moestly on a moral value , naemly respekting children's riet to develop freely without manipulaeshon .
+Anarchism and education .	Anarkizm and ejucaeshon .
+Anarchism appears in English from 1642 as " anarchisme " and " anarchy " from 1539 .	Anarkizm apeers in english from 1642 as " anarkizm " and " anarky " from 1539 .
+Anarchism is a political philosophy and movement that rejects all involuntary , coercive forms of hierarchy .	Anarkizm is a politikal filesaufy and moovment that rejekts all involuntary , coersiv forms of hierarky .
+Anarchist and non - anarchist feminists differed on suffrage , but still they were supportive of each other .	Anarkist and non - anarkist feminists diferd on sufraj , but stil thae wer suportiv of eech uther .
+Anarchist's interest to education stretches back to the first steps of classical anarchism .	Anarkist's interest to ejucaeshon streches bak to th furst steps of clasikal anarkizm .
+Anarcho - communism , also known as anarchist - communism , communist anarchism and libertarian communism , is a theory of anarchism that advocates a communist society with common ownership of the means of production , direct democracy , and a horizontal network of voluntary associations and workers ' councils with production and consumption based on the guiding principle : " From each according to his ability , to each according to his need " .	Anarko - comuenizm , also noen as anarkist - comuenizm , comuenist anarkizm and libertarian comuenizm , is a theeory of anarkizm that advokaets a comuenist sosiety with comon ounership of th meens of produkshon , direkt dimocrasy , and a horizontal netwurk of voluntary asoesiaeshons and wurkers ‘ counsils with produkshon and consumpshon baest on th gieding prinsipl : " from eech akording to his ability , to eech akording to his need " .
+Anarcho - syndicalism , also referred to as revolutionary syndicalism , is a branch of anarchism that views labour syndicates as a potential force for revolutionary social change , replacing capitalism and the state with a new society democratically self - managed by workers .	Anarko - sindikalizm , also referd to as revolushonaery sindikalizm , is a branch of anarkizm that vues leibur syndicaet as a potenshal forss for revolushonaery soeshal chaenj , replaessing capitalizm and th staet with a nue sosiety dimocratikaly self - manejd bi wurkers .
+Christian anarchist Leo Tolstoy had also established a school , it ' s major principle was " for education to be effective it had to be free " , as Tolstoy himself explained .	Chrischan anarkist Leo Tolstoy had also establisht a scool , it ‘ s maejor prinsipl was " for ejucaeshon to be efektiv it had to be free " , as Tolstoy himself explaend .
+Collectivist anarchism , also known as anarchist collectivism or anarcho - collectivism , is a revolutionary socialist form of anarchism commonly associated with Mikhail Bakunin .	Colektivist anarkizm , also noen as anarkist colektivizm or anarko - colektivizm , is a revolushonaery soeshalist form of anarkizm comonly asoesiaeted with Mikhail Bakunin .
+Collectivist anarchists advocate collective ownership of the means of production , theorised to be achieved through violent revolution , and that workers be paid according to time worked , rather than goods being distributed according to need as in communism .	Colektivist anarkists advokaet colektiv ounership of th meens of produkshon , theeoriezd to be acheevd thru vielen revolooshon , and that wurkers be peid akording to taim wurkd , rather than goods being distribueted akording to need as in comuenizm .
+Criticism of anarchism mainly focuses on it being internally inconsistent , violent and utopian .	Critisizm of anarkizm maenly foecuses on it being internaly inconsistent , vielen and utopian .
+During the second half of the 20th century , anarchism intermingled with the second wave of anarchism , radicalizing some currents of the feminist movement - and got influenced as well .	Duering th sekond haf of th 20th senchury , anarkizm intermingled with th sekond waev of anarkizm , radicalaezing sum curents of th feminist moovment - and got influenst as wel .
+Etymology , terminology and definition .	Etimolojy , terminolojy and definishon .
+Evolutionary tactics aim to prefigure what an anarchist society would be like .	Evolooshonaery taktiks aem to preefigur whot an anarkist sosiety wuud be liek .
+However , some anarchists distanced themselves from this line of thinking , suggesting it is leaning towards individualism and therefore dropping the cause of social liberation .	However , sum anarkists distenst themselv from this lien of thinking , sujesting it is leening tords indivijualizm and therfor droping th cauz of soeshal liberaeshon .
+However , they faced the dilemma of whether they should guide youngsters towards political and class struggles .	However , thae faest th dilema of whether thae shuud gied yungsters tords politikal and clas strugls .
+In the last decades of the 20th century and into the 21st century , the anarchist movement has been resurgent once more .	In th last dikaeds of th 20th senchury and into th 21st senchury , th anarkist moovment has been reserjent wunss mor .
+Inceptive currents among classical anarchist currents were mutualism and individualism .	Inseptiv curents amung clasikal anarkist curents wer mutualizm and indivijualizm .
+Many revolutionaries of the 19th century such as William Godwin ( 1756 – 1836 ) and Wilhelm Weitling ( 1808 – 1871 ) would contribute to the anarchist doctrines of the next generation , but they did not use " anarchist " or " anarchism " in describing themselves or their beliefs .	Meny revolooshonaerys of th 19th senchury such as William Godwin ( 1756 - 1836 ) and Wilhelm Weitling ( 1808 - 1871 ) wuud contribuet to th anarkist doktrins of th next jeneraeshon , but thae did not uess " anarkist " or " anarkizm " in descriebing themselv or thaer beliefs .
+Mutualism is an 18th - century economic theory that was developed into anarchist theory by Pierre - Joseph Proudhon .	Mutualizm is an 18th - senchury economik theeory that was divelopt into anarkist theeory bi Piere - Joseph Proudhon .
+Objection to the state and its institutions is " sine qua non " of anarchism .	Obshekshon to th staet and its institueshons is " sine qua non " of anarkizm .
+On the other hand , some use " libertarianism " to refer to individualistic free - market philosophy only , referring to free - market anarchism as " libertarian anarchism " .	On th uther hand , sum uess " libertarianism " to refer to indivijualistic free - market filesaufy oenly , refering to free - market anarkizm as " libertarian anarkizm " .
+Post - classical and contemporary .	Post - clasikal and contemporary .
+Some decades later , anarchist authors such Colin Ward , Hearbert Read and Paul Goodman intensified and expanded anarchist's critique to state education , even the need for schooling as a pedagogical method , suggesting a system that would focus on children's creativity rather than turning them into career - hunters .	Sum dikaeds laeter , anarkist authors such Colin Ward , Hearbert Read and Paul Goodman intensify and expanded anarkist's criteek to staet ejucaeshon , eevn th need for skooling as a pedagojikal method , sujesting a sistem that wuud foecus on children's creaetivity rather than turning them into career - hunters .
+The first political philosopher to call himself an " anarchist " ( ) was Pierre - Joseph Proudhon ( 1809 – 1865 ) , marking the formal birth of anarchism in the mid - 19th century .	Th furst politikal filesaufer to caul himself an " anarkist " ( ) was Piere - Josef Proudhon ( 1809 - 1865 ) , marking th formal barth of anarkizm in th mid - 19th senchury .
+The school closed after constant harassment by the state and Ferrer was later on arrested .	Th scool cloezd after constant harasment bi th staet and Ferer was laeter on arested .
+The timeline of anarchism stretches back to prehistory when people lived in anarchistic societies long before the establishment of formal states , kingdoms or empires .	Th tiemlien of anarkizm streches bak to prehistory when peepl livd in anarkistik sosietis long before th establishment of formal staets , kingdoms  or empiers .
+There is significant overlap between the two legs which are merely descriptive .	Thaer is signifikant oeverlap bitween th too legs which ar meerly discriptiv .
+They were followed by the major currents of social anarchism ( collectivist , communist and syndicalist ) .	Thae wer foloed bi th maejor curents of soeshal anarkizm ( colektivist , comuenist and sindikalist ) .
+Through many countries , individualist anarchism attracted a small yet diverse following of Bohemian artists and intellectuals as well as young anarchist outlaws in what became known as illegalism and individual reclamation .	Thru meny cuntrys , indivijualist anarkizm atraekted a smaul yet dievers foloeing of boeheemean artists and intelekchual as wel as yung anarkist outlaws in whot bekaem noen as ileegalizm and indivijual reclameashon .
+Various branches of anarchism were espoused during those times .	Vaerius branches of anarkizm wer espouzd duering thoes tiems .
+With the third wave of anarchism , sexual identity and compulsory heterosexuality were put under the anarchist's microscope and yielded a post - structuralist critique of sexual normality .	With th thurd waev of anarkizm , seksual iedentity and compulsory heterosekshuality wer puut under th anarkist's mikroscop and yilded a post - structuralist criteek of seksual normality .
+With the rise of organised hierarchical bodies , skepticism towards authority also rose , but it was not until the 19th century a self - conscious political movement was formed .	With th riez of organiezd hierarkikal bodys , skeptisizm tords authority also roez , but it was not until th 19th senchury a self - conshous politikal moovment was formd .
+Most anarchist educators of early 20th century did not take a neutral stance ; the specific question kept troubling anarchist the decades to come .	Moest anarkist ejucaetors of erly 20th senchury did not taek a nutral stanss ; th spasifik qeschon kept truubling anarkist th dikaeds to cum .
+Mutualism has been retrospectively characterised as ideologically situated between individualist and collectivist forms of anarchism .	Mutualizm has been retrospektivly charakteriezd as iedeolojikaly sichuaeted bitween indivijualist and colektivist forms of anarkizm .

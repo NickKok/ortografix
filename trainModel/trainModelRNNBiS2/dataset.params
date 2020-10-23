@@ -1,0 +1,4 @@
+shuffle	True
+is_character_based	True
+max_seq_len	17
+is_reversed	False
